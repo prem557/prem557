@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**prem557/prem557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi, I'm Prem Anurag
+🎓 MCA Fresher | 💻 Full Stack Developer | Passionate Learner
+🔧 **Tech Stack:**  
+- Frontend: HTML, CSS, JavaScript, React.js  
+- Backend: Python, Flask  
+- Tools: Git, GitHub, Postman  
+- Learning: Node.js, Docker, Firebase  
+🛠️ **Projects:**  
+- [CareerPilot](https://github.com/prem557/CareerPilot) — AI-Based Career Strategy Platform  
+- DevSync (in progress) — Real-time dev collaboration tool  
+📜 **Certifications:**  
+- AWS Cloud Solutions (Forage)  
+- Deloitte Tech Simulation (Forage)  
+📬 **Let's connect!**  
+- GitHub: [github.com/prem557](https://github.com/prem557)  
+- LinkedIn: [linkedin.com/in/prem-anurag-748244256](https://linkedin.com/in/prem-anurag-748244256)  
+- Email: premanurag525@gmail.com
